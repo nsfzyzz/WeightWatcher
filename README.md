@@ -433,6 +433,8 @@ and has been the subject  many popular podcasts
 
 [PyTorch2021 Poster  April 2021](presentations/pytorch2021_poster.pdf)
 
+[2 hour Presentation at Mila AI Institute](https://bluejeans.com/playback/s/cyQnC9EZZSB9HlHDjB1Zpu3fs0J71i4kPqN3ewCzbLm5AxKQzJ12gqwteONlsEtM)
+
 
 ## Slack Channel
 
