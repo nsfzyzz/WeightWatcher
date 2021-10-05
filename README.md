@@ -427,7 +427,7 @@ and has been the subject  many popular podcasts
 
 - [LightOn AI Meetup](https://www.youtube.com/watch?v=tciq7t3rj98)
 
-#### 2021 Short Presentations
+#### 2021 Presentations
 
 [MLC Research Jam  March 2021](presentations/ww_5min_talk.pdf)
 
